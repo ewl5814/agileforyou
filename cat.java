@@ -7,7 +7,7 @@ public class Cat {
         this.lives = lives;
     }
 
-    public String furball() {
-        return "Yack";
+    public void furball() {
+        System.out.println("yik");
     }
 }
