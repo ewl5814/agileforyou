@@ -8,6 +8,6 @@ public class Cat {
     }
 
     public void furball() {
-        System.out.println("Yack");
+        System.out.println("yik");
     }
 }
